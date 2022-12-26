@@ -1,0 +1,19 @@
+div{
+    height:300px;
+    width: 500px;
+    border: 2px solid royalblue;
+}
+div:hover
+{
+    background-color: cornsilk;
+}
+p::selection
+{
+    background-color :blue;
+    color: brown;
+}
+p::first-letter
+{
+    color: brown;
+    font-size: 20px;
+}

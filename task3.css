@@ -1,0 +1,25 @@
+#a1
+{
+height: 100px;
+width: 300px;
+border-top:2px dashed ;
+border-left: 2px dotted red;
+border-bottom: 2px solid red;
+}
+#a2
+{
+ height: 100px;
+ width: 300px;
+ border-top-right-radius:5px;
+ border-right: 2px solid red;
+}
+#a3
+{
+    height: 100px;
+    width: 300px;
+    border:  solid 2px red;
+    border-top-left-radius: 50% ;
+    border-top-right-radius: 50% ;
+    border-bottom-left-radius: 50%;
+    border-bottom-right-radius: 50%;
+}

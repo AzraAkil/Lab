@@ -1,0 +1,21 @@
+body
+{
+
+    background-color:aliceblue;
+}
+#a1
+{
+   color: rgb(69, 30, 2); 
+}
+#a3:hover
+{
+    color: chocolate;
+}
+#a4:hover
+{
+    color: rgba(68, 62, 62, 0.63);
+}
+#a5,#a6,#a7:active
+{
+    color: darkgoldenrod;
+}

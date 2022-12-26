@@ -1,0 +1,104 @@
+*
+{
+    box-sizing: border-box;
+    margin: 0%;
+    padding: 0%;
+}
+.parent
+{
+    width: 100%;
+    height: 60px;
+    background-color: black;
+    display: flex;
+}
+#a
+{
+    width: 200px;
+    height: 40px;
+    background-color:black;
+    margin: 10px 200px;
+    padding-top: 10px;
+    padding-left: 20px;
+    color: aliceblue;
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+}
+#b
+{
+    width: 100px;
+    height: 40px;
+    background-color: black;
+    margin: 9px auto;
+    padding-top: 10px;
+    padding-left: 18px;
+    color: aliceblue;
+
+
+}
+#c
+{
+    width: 100px;
+    height: 40px;
+    background-color: black;
+    margin: 8px auto;
+    padding-top: 10px;
+    padding-left: 20px;
+    color: aliceblue;
+
+}
+#d
+{
+    width: 100px;
+    height: 40px;
+    background-color: black;
+    margin: 8px auto;
+    padding-top: 10px;
+    padding-left: 20px;
+    color: aliceblue;
+
+}
+#e
+{
+    width: 150px;
+    height: 40px;
+    background-color:rgb(9, 174, 239);
+    margin: 8px 250px;
+    padding-top: 10px;
+    padding-left: 40px;
+    color: aliceblue;
+    border-top: 2px solid black;
+    border-top: 2px solid black;
+    border-left: 2px solid black;
+    border-right: 2px solid black;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+} 
+#a:hover
+{
+    background-color: grey;
+}
+#b:hover
+{
+    background-color: grey;
+}
+#c:hover
+{
+    background-color: grey;
+}
+#d:hover
+{
+    background-color: grey;
+}
+#e:active
+{
+    background-color: darkblue;
+}
+
+
+
+
+
+
+
+
